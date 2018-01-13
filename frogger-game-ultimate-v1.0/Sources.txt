@@ -1,0 +1,4 @@
+following are cite that helped w/ implementing design or algorithm logic for this arcade game version 1.
+for how to w/ JQuery: https://www.w3schools.com/
+for editing images: https://www140.lunapic.com/editor/?action=replace-color
+for character speech bubble:http://wigflip.com/ds/
