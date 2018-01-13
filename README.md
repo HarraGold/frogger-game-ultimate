@@ -14,9 +14,9 @@ Please read details & instructions below to install and play!
 * Updated web browser: Google Chrome 7.1, Firefox, Internet Explorer
 * Google chrome is suggested.
 
-## Getting Started
+## Installation - Starting Game
 Ensure you have google chrome or a web browser installed.
-1. Download and unzip the folder "HB-Classic Arcade Game Clone - Ultimate V1"
+1. Download and unzip the folder "frogger-game-ultimate-v1.0"
 2. Open the folder
 3. Open "index.html"
 
@@ -38,4 +38,4 @@ That's all you'll need. Evade the bugs, and get as much points to earn rewards.
 * Hartake
 
 ## Acknowledgments
-* Udacity
+* Udacity - Frontend Nanodegree
