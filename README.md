@@ -14,7 +14,7 @@ Please read details & instructions below to install and play!
 * Updated web browser: Google Chrome 7.1, Firefox, Internet Explorer
 * Google chrome is suggested.
 
-----Getting Started----
+## Getting Started
 Ensure you have google chrome or a web browser installed.
 1. Download and unzip the folder "HB-Classic Arcade Game Clone - Ultimate V1"
 2. Open the folder
