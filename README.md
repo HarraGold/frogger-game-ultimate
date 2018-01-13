@@ -11,8 +11,8 @@ Goal of the game is to get points by avoiding being "bugged" by adorable lady bu
 Please read details & instructions below to install and play!
 
 ## Prerequisites
-* Updated web browser: Google Chrome 7.1, Firefox, Internet Explorer
-* Google chrome is suggested.
+* Computer, Monitor, Mouse, and Browser
+* Updated web browser: Google Chrome 7.1 (Recommended), Firefox, Internet Explorer
 
 ## Installation - Starting Game
 Ensure you have google chrome or a web browser installed.
