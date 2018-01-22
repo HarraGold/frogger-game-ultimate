@@ -16,7 +16,7 @@ Please read details & instructions below to install and play!
 
 ## Installation - Starting Game
 Ensure you have google chrome or a web browser installed.
-1. Download and unzip the folder "frogger-game-ultimate-v1.0"
+1. Download and unzip the folder "frogger-game-ultimate-v1.0" (Green button above)
 2. Open the folder
 3. Open "index.html"
 
