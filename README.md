@@ -4,9 +4,9 @@ Hey, thanks for reading!
 This app is a Small responsive arcade game developed as part of the Udacity Frontend Nanodegree course.
 Goal of the game is to get points by avoiding being "bugged" by adorable lady bugs and reach the safe water zone.
  The higher points, the richer the gems :) (see instructions below for more)
-    Green - 100 pts
-    Blue  - 250 pts
-    Gold  - 500 pts
+    * Green - 100 pts
+    * Blue  - 250 pts
+    * Gold  - 500 pts
 
 Please read details & instructions below to install and play!
 
